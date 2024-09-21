@@ -1,0 +1,6 @@
+@PriceComparer.WebScraper.API_HostAddress = http://localhost:5128
+
+GET {{PriceComparer.WebScraper.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
